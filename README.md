@@ -1,13 +1,14 @@
 # SGA (Old Irish) Yomitan Dictionaries
 
+Currently, only corPH, EIGD, and OG are available, as the copyright situation with eDIL is investigated.
+
+## Summary of Dictionaries
 | Dictionary | Copyright | Headwords | Focus | Currently? | Download |
 | -- | -- | -- | -- | -- | -- |
 | [eDIL](#electronic-dictionary-of-the-irish-language-edil) | Copyrighted | 35,466 | Creating a complete dictionary of Old / Middle Irish | Ongoing | *unavailable* |
 | [corPH](#corpus-palaeohibernicum-corph-2021) | MIT | 8,073 | Investigating the evolution of Old Irish grammar through extensive tagging of Old / Middle Irish material | Complete, potentially will continue | [placeholder] |
 | [EIGD](#early-irish-glossaries-database-eigd-2009) | MIT | 2,361 | Transcribing and creating concordances of major Old Irish glossaries | Infrequent updates | [placeholder] |
 | [OG](#onomasticon-goedelicum-og-1910) | Unknown | 25,312 | Transcribing the onomastical information in Onomasticon Goedelicum | Complete | [placeholder] |
-
-Currently, only corPH, EIGD, and OG are available, as the copyright situation with eDIL is currently murky.
 
 ## Electronic Dictionary of the Irish Language (eDIL)
 *Copyright Status*: Assumed to be under copyright
