@@ -28,20 +28,20 @@ Of the 42,700 words in the 2013 edition, around 35,466 are words proper, and aro
 | Part-of-Speech | Attestations |
 | -- | -- |
 | Nouns | 18,238 |
-| Pronouns | 119 |
 | Adjectives | 6,981 |
-| Gerunds | 111 |
 | Verbs | 4,052 |
-| Prepositions | 87 |
 | Undetermined** | 2,464 |
-| Substantives | 72 |
 | Proper Nouns | 1,321 |
-| Conjunctions | 55 |
 | Verbal Nouns | 1,153 |
-| Prefixes | 55 |
 | Participle | 340 |
-| Numerals | 48 |
 | Adverbs | 239 |
+| Pronouns | 119 |
+| Gerunds | 111 |
+| Prepositions | 87 |
+| Substantives | 72 |
+| Conjunctions | 55 |
+| Prefixes | 55 |
+| Numerals | 48 |
 | Interjections | 34 |
 
 *any part-of-speech with less than 30 attestations is not shown
