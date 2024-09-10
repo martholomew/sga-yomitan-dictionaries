@@ -1,6 +1,6 @@
 # SGA (Old Irish) Yomitan Dictionaries
 
-| Dictionary | Copyright | Headwords | Focus | Currently? | Downlaod |
+| Dictionary | Copyright | Headwords | Focus | Currently? | Download |
 | -- | -- | -- | -- | -- | -- |
 | [eDIL](#electronic-dictionary-of-the-irish-language-edil) | Copyrighted | 35,466 | Creating a complete dictionary of Old / Middle Irish | Ongoing | *unavailable* |
 | [corPH](#corpus-palaeohibernicum-corph-2021) | MIT | 8,073 | Investigating the evolution of Old Irish grammar through extensive tagging of Old / Middle Irish material | Complete, potentially will continue | [placeholder] |
